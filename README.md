@@ -1,2 +1,2 @@
 # coursera
-misc
+Miscellaneous work done for coursera courses 
